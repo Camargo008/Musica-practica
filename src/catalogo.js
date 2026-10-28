@@ -1,6 +1,6 @@
 // Catálogo musical
 const titulo = "Catálogo musical";
-const tempoRock = 120;
+const tempoRock = 140;
 function describir() {
   return titulo + " (rock a " + tempoRock + " BPM)";
 }
